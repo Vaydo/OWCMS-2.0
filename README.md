@@ -40,8 +40,8 @@ OWCMS keeps the familiar oilfield **"Shakhmatka"** grid logic intact while trans
 ---
 
 ## 👥 VINX Team
-* **Vidadi Rəhimov** — Founder, Product Owner & Platform Architecture (21+ years of upstream field experience)
-* **Nəcməddin Həsənzadə** — Business Analytics & System Design
-* **Fəxrəddin Abdullayev** — Software Development & Data Pipelines
+* **Vidadi Rahimov** — Founder, Product Owner & Platform Architecture (21+ years of upstream field experience)
+* **Najmaddin Hasanzade** — Business Analytics & System Design
+* **Fakhraddin Abdullayev** — Software Development & Data Pipelines
 
 *Status: MVP / Prototype stage. Open for pilot testing, technical validation, and industry mentorship.*
